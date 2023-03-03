@@ -44,15 +44,15 @@ const About =()=>{
                                         <div className="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                                             <div className="con con_right_border"> <i className="flaticon-car-trip" />
                                             </div>
-                                            <div className="count-description"> <span className="timer">4</span>
+                                            <div className="count-description"> <span className="timer">2</span>
                                                 <h5 className="con1">qulified staff</h5>
                                             </div>
                                         </div>
                                         <div className="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                                             <div className="con con_right_border con2 cont2 cont3"> <i className="flaticon-multiple-users-silhouette" />
                                             </div>
-                                            <div className="count-description"> <span className="timer">1+</span>
-                                                <h5 className="con2">Years Of Experience</h5>
+                                            <div className="count-description"> <span className="timer">6</span>
+                                                <h5 className="con2">Month Of Experience</h5>
                                             </div>
                                         </div>
                                         <div className="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
