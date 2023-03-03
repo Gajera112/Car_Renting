@@ -3,9 +3,8 @@ import {TitleHeader} from "../Comman/TitleHeader";
 import {Loader} from "../globalUtilities/Loader";
 import a1 from "../assets/images/about_img1.jpg"
 import t0 from "../assets/team/IMG_20191103_112329.jpg"
-import t1 from "../assets/team/WhatsApp Image 2020-05-30 at 6.39.06 PM.jpeg"
-import t2 from "../assets/team/WhatsApp Image 2020-05-30 at 2.13.09 PM.jpeg"
-import t3 from "../assets/team/WhatsApp Image 2020-05-30 at 6.27.47 PM.jpeg"
+import t1 from "../assets/team/shreya79.jpg"
+import t2 from "../assets/team/princii.jpeg"
 import HowItWorks from "./Home/HowItWorks";
 
 
@@ -93,75 +92,6 @@ const About =()=>{
                                     <div className="item">
                                         <div className="btc_team_slider_cont_main_wrapper">
                                             <div className="btc_team_img_wrapper">
-                                                <img src={t1} alt="team_img1" height="635px"/>
-                                                <div className="btc_team_social_wrapper">
-                                                    <ul>
-                                                        <li><a href="#"><i className="fa fa-facebook" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-twitter" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-linkedin" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-google-plus" /></a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div className="btc_team_img_cont_wrapper">
-                                                <h4><a href="#">Manthan Patel</a></h4>
-                                                <p>(CEO)</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="item">
-                                        <div className="btc_team_slider_cont_main_wrapper">
-                                            <div className="btc_team_img_wrapper">
-                                                <img src={t2} alt="team_img1" />
-                                                <div className="btc_team_social_wrapper">
-                                                    <ul>
-                                                        <li><a href="#"><i className="fa fa-facebook" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-twitter" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-linkedin" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-google-plus" /></a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div className="btc_team_img_cont_wrapper">
-                                                <h4><a href="#">Akash Prajapati</a></h4>
-                                                <p>(CEO)</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="item">
-                                        <div className="btc_team_slider_cont_main_wrapper">
-                                            <div className="btc_team_img_wrapper">
-                                                <img src={t3} alt="team_img1" height="636px"/>
-                                                <div className="btc_team_social_wrapper">
-                                                    <ul>
-                                                        <li><a href="#"><i className="fa fa-facebook" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-twitter" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-linkedin" /></a>
-                                                        </li>
-                                                        <li><a href="#"><i className="fa fa-google-plus" /></a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div className="btc_team_img_cont_wrapper">
-                                                <h4><a href="#">Vipul Goriya</a></h4>
-                                                <p>(Expert)</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="item">
-                                        <div className="btc_team_slider_cont_main_wrapper">
-                                            <div className="btc_team_img_wrapper">
                                                 <img src={t0} alt="team_img1" height="635px"/>
                                                 <div className="btc_team_social_wrapper">
                                                     <ul>
@@ -178,6 +108,53 @@ const About =()=>{
                                             </div>
                                             <div className="btc_team_img_cont_wrapper">
                                                 <h4><a href="#">Jeel Bhanvadiya</a></h4>
+                                                <p>(CTO)</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="item">
+                                        <div className="btc_team_slider_cont_main_wrapper">
+                                            <div className="btc_team_img_wrapper">
+                                                <img src={t1} alt="team_img1" />
+                                                <div className="btc_team_social_wrapper">
+                                                    <ul>
+                                                        <li><a href="#"><i className="fa fa-facebook" /></a>
+                                                        </li>
+                                                        <li><a href="#"><i className="fa fa-twitter" /></a>
+                                                        </li>
+                                                        <li><a href="#"><i className="fa fa-linkedin" /></a>
+                                                        </li>
+                                                        <li><a href="#"><i className="fa fa-google-plus" /></a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div className="btc_team_img_cont_wrapper">
+                                                <h4><a href="#">Shreya Gajera</a></h4>
+                                                <p>(Expert)</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="item">
+                                        <div className="btc_team_slider_cont_main_wrapper">
+                                            <div className="btc_team_img_wrapper">
+                                                <img src={t2} alt="team_img1" height="635px"/>
+                                                <div className="btc_team_social_wrapper">
+                                                    <ul>
+                                                        <li><a href="#"><i className="fa fa-facebook" /></a>
+                                                        </li>
+                                                        <li><a href="#"><i className="fa fa-twitter" /></a>
+                                                        </li>
+                                                        <li><a href="#"><i className="fa fa-linkedin" /></a>
+                                                        </li>
+                                                        <li><a href="#"><i className="fa fa-google-plus" /></a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div className="btc_team_img_cont_wrapper">
+                                                <h4><a href="#">Princy Stani</a></h4>
                                                 <p>(Expert)</p>
                                             </div>
                                         </div>
