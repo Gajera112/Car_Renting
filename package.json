@@ -12,6 +12,7 @@
     "antd": "^4.2.0",
     "axios": "^0.19.2",
     "firebase": "^9.18.0",
+    "firebase-tools": "^11.25.2",
     "query-string": "^6.12.1",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
