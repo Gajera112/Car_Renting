@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 const appConfig = {
-  appUrl: "http://localhost:8080",
+  appUrl: "https://car-rental-api-zrfp.onrender.com",
   token: localStorage.getItem("token") || "",
   authToken: () => localStorage.getItem("token") || "",
 };
